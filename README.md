@@ -3,3 +3,4 @@ Data drift is unexpected and undocumented changes to data structure, semantics, 
 
 <br> <br> <br>
 ## Ways to Handle Data Drift
+1. Reduce dependency on custom code

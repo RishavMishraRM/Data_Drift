@@ -6,3 +6,4 @@ Data drift is unexpected and undocumented changes to data structure, semantics, 
 1. Reduce dependency on custom code
 2. Minimize schema specification
 3. Require fully instrumented pipelines
+4. Decouple data pipelines from infrastructure

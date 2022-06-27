@@ -9,3 +9,4 @@ Data drift is unexpected and undocumented changes to data structure, semantics, 
 4. Decouple data pipelines from infrastructure
 5. Build data pipelines for intent instead of semantics
 6. Assume multiple platforms
+7. Keep your focus on what matters
